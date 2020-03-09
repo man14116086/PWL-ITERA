@@ -62,7 +62,7 @@ ubah ke
 |Muhammad Iqbal | 14115014 | https://github.com/baleops/14115014-PWL|
 |Muhammad Syafi'i Ramadhan | 14116015 | https://github.com/fiayvv/14116015-PWL |
 |Mia Audina | 14117032 | https://github.com/audinamia/PWL-14117032 |
-|Jose Sitanggang | 14116125 | https://github.com/josestg/prak-pwl            |
+|Jose Sitanggang | 14116125 | https://github.com/josestg/prak-pwl   |
 |Firman Manalu | 14116086 | https://github.com/man14116086/PWL-ITERA |
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 

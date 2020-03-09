@@ -1,0 +1,56 @@
+/*	navigasi */
+nav ul{
+	display: flex;
+  list-style: none;
+	border-bottom: 1px solid #eee;
+	padding: 1rem;
+  box-shadow: 13px 12px 23px #eee;
+  background-color: yellow;
+}
+nav li{
+  flex: 1;
+}
+nav li a{
+  display: flex;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+  justify-content: center;
+  color: #eee;
+  font-size: 20px;
+}
+
+/*	konten */
+section{
+  margin-left: 15%;
+  margin-right: 10%;
+	word-break: break-word;
+  padding-top: 2rem;
+  text-align: center;
+}
+
+.container{
+    display: flex;
+ }
+ .container > div{
+     margin: 30px;
+ }
+ body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    background-image: url('https://cdn2.tstatic.net/batam/foto/bank/images/one-piece-monkey-d-luffy.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+  font-size: 28px;
+  color: black;
+  width: auto;
+  text-align: center;
+  background-color: orchid;
+}
+h3 {
+  color: black;
+  font-size: 24px;
+  text-align: center;
+  background-color: blue;
+}
