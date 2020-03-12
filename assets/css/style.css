@@ -21,7 +21,6 @@ nav li a{
 
 /*	konten */
 section{
-  display: flex;
   margin-left: 15%;
   margin-right: 10%;
 	word-break: break-word;
@@ -33,14 +32,11 @@ section{
     display: flex;
  }
  .container > div{
-   display: flex;
-   margin: 30px;
+     margin: 30px;
  }
  body {
-    display: flex;
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
-    background-image: url('https://cdn2.tstatic.net/batam/foto/bank/images/one-piece-monkey-d-luffy.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
@@ -56,9 +52,4 @@ h3 {
   font-size: 24px;
   text-align: center;
   background-color: blue;
-}
-@media screen and (max-width: 700px) {
-  .row, .navbar {   
-    flex-direction: column;
-  }
 }
